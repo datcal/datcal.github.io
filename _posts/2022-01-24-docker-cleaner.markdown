@@ -2,6 +2,7 @@
 layout: post
 title:  "Docker Cleaner"
 date:   2022-01-24 14:30:38 +0300
+image: /images/blog/2022-01-24-docker-cleaner.jpeg
 categories: 
     - Docker
 tags: 
