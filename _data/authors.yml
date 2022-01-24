@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Burak Hamza:
+  name: Burak Hamza
+  picture: /images/bio-photo-2.jpg
+  twitter: "@datcal"
+  links:
+    - title: Twitter
+      url: https://twitter.com/datcal
+      icon: fab fa-twitter-square

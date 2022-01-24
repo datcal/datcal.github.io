@@ -2,7 +2,12 @@
 layout: post
 title:  "Docker Cleaner"
 date:   2022-01-24 14:30:38 +0300
-categories: docker helper github-repo
+categories: 
+    - Docker
+tags: 
+    - helper
+    - github-repo
+    - docker
 ---
 
 ### docker-clean
