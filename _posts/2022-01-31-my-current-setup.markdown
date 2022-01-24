@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Current Setup"
-date:   2022-01-24 10:30:38 +0300
+date:   2022-01-31 10:30:38 +0300
 image:
     path: /images/blog/2022-01-25-my-current-setup/2022-01-25-my-current-setup.JPG
     thumbnail: /images/blog/2022-01-25-my-current-setup/2022-01-25-my-current-setup-400x200.jpeg
